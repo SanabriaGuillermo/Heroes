@@ -1,7 +1,13 @@
 body{
-    color: rgb(231, 212, 183);
+    background-color: rgb(216, 163, 144);
+    font-size: xx-large;
+    color: rgb(7, 2, 56);
 }
-
+h1{
+    text-align: center;
+    color: black;
+}
 p{
-    color: blue;
+    text-align: center;
+    color: rgb(15, 15, 15);
 }
